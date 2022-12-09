@@ -1,0 +1,33 @@
+.p {position: absolute; 
+    color: blue;
+    top: 75px; 
+	left: 0px;
+    }
+.h {position: absolute; 
+    color: red;
+    top: 150px; 
+	left: 0px;
+    }
+.hh {position: absolute; 
+    color: green;
+    top: 240px; 
+	left: 0px;
+    }
+.hhh {position: absolute; 
+    color: gold;
+    top: 320px; 
+	left: 0px;
+    }
+#pa {position: absolute;
+    border: 1px solid blue; 
+    width: 300px; 
+    height: 100px; 
+    top: 400px; 
+	left: 0px;
+    }
+.ch {position: absolute;
+    border: 1px solid red; 
+    width: 300px; 
+    height: 100px; 
+    top: 400px; 
+    right: 0px;}
